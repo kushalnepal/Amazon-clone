@@ -31,7 +31,7 @@ function Login() {
                     <input type="password" value={password} onChange={e=>setPassword(e.target.password)} />
                     <button type="submit" className="login_signin_Button" onClick={signIn} >SignIn</button>
                 </form>
-                <p>By signing-in you agree to the AMAZON CLONE Conditions .  <Link> Be sure </Link>  if you like my project you can join me in facebook as <Link> Kushal NP </Link>  </p>
+                <p>By signing-in you agree to the AMAZON CLONE Conditions .  <Link> Be sure </Link>  if you like my project you can join me in facebook as  <a href='https://www.facebook.com/readels.np'>Kushal NP</a>   </p>
                 <button className="login_register_Button" onClick={register}>Create your Account</button>
             </div>
         </div>
