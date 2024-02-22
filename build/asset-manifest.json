@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.a6222cfb.chunk.css",
+    "main.js": "/Amazon-clone/static/js/main.da23c273.chunk.js",
+    "main.js.map": "/Amazon-clone/static/js/main.da23c273.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.5bb0de7b.js",
+    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.5bb0de7b.js.map",
+    "static/js/2.c19093ff.chunk.js": "/Amazon-clone/static/js/2.c19093ff.chunk.js",
+    "static/js/2.c19093ff.chunk.js.map": "/Amazon-clone/static/js/2.c19093ff.chunk.js.map",
+    "index.html": "/Amazon-clone/index.html",
+    "static/css/main.a6222cfb.chunk.css.map": "/Amazon-clone/static/css/main.a6222cfb.chunk.css.map",
+    "static/js/2.c19093ff.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.c19093ff.chunk.js.LICENSE.txt",
+    "static/media/Roku.0ff6ef9e.jpg": "/Amazon-clone/static/media/Roku.0ff6ef9e.jpg",
+    "static/media/amazon2.b4033759.jpg": "/Amazon-clone/static/media/amazon2.b4033759.jpg",
+    "static/media/cameralens.fc70b1f3.jpg": "/Amazon-clone/static/media/cameralens.fc70b1f3.jpg",
+    "static/media/checkoutads1.b7a20f74.jpg": "/Amazon-clone/static/media/checkoutads1.b7a20f74.jpg",
+    "static/media/computeracc.07344826.jpg": "/Amazon-clone/static/media/computeracc.07344826.jpg",
+    "static/media/hp.a14f00dd.jpg": "/Amazon-clone/static/media/hp.a14f00dd.jpg",
+    "static/media/keyboard.06aaf958.jpg": "/Amazon-clone/static/media/keyboard.06aaf958.jpg",
+    "static/media/monitor.55232dee.jpg": "/Amazon-clone/static/media/monitor.55232dee.jpg",
+    "static/media/pendrive.f255277e.jpg": "/Amazon-clone/static/media/pendrive.f255277e.jpg",
+    "static/media/search.23418f39.png": "/Amazon-clone/static/media/search.23418f39.png",
+    "static/media/shoping-cart.306413a4.png": "/Amazon-clone/static/media/shoping-cart.306413a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb0de7b.js",
+    "static/js/2.c19093ff.chunk.js",
+    "static/css/main.a6222cfb.chunk.css",
+    "static/js/main.da23c273.chunk.js"
+  ]
+}
