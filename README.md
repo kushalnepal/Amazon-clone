@@ -66,7 +66,7 @@ This project is a **functional Amazon Clone** built with **React** and **Context
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd amazon-clone
+   cd Amazon-clone
    ```
 3. Install dependencies:  
    ```bash
